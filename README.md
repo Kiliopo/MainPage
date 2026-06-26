@@ -8,7 +8,7 @@ I've completed my Bachelor and Master degree in Medialogy, where i've had te ope
 | :--- | :--- | :--- |
 | **Aalborg University, Copenhagen** | Master of Science in Medialogy (Cand.Scient.) | *2024 - 2026* |
 | **Aalborg University, Copenhagen** | Bachelor of Science in Medialogy | *2021 - 2024* |
-| **Københavns Medie Gymnasium (KMG)** | Game Design - HTX | *2016 - 2019* |
+| **Københavns Medie Gymnasium (KMG)** | Game Design - HTX | *2017 - 2020* |
 
 ## 🔨 Skills & Tools
 ### Programs

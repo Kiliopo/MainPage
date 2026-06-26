@@ -26,4 +26,8 @@ C#, Python, SQLLite, Pure Data, C++, CAD
 |Real Time Computer Graphis Project|[<img width="2553" height="1228" alt="image" src="https://github.com/user-attachments/assets/52b8f088-862d-4931-a59a-525803be7d51" />](https://github.com/Kiliopo/RTCG-Shader-Final)| This project was made using Unity Shader Graphs. The aim was to create a real time NNight Visions shader that is set up as real world night vision works by amplyfiing the light that enters, utelizing a physical modeling framework. |
 |Bachelor Project| <img width="1197" height="743" alt="image" src="https://github.com/user-attachments/assets/111cf0c6-6752-4f2d-9e88-efb0e185611c" /> | [**Finansrådgiver**](https://dangelthemangel.itch.io/finansraadgiver) <br/> <br/> **Role:** Game Designer, Deialoge Designer, Audio Designer, User Testing, Reaserch, Data processing <br/> <br/> **Description:** |
 |Games Course project| [<img width="1866" height="1044" alt="image" src="https://github.com/user-attachments/assets/2361507d-ef7d-4978-a5dc-f91a6631569c" />](https://youtu.be/tQN5j9wwrT0) | [**Hippity Hoppity**](https://dangelthemangel.itch.io/hippity) <br/> <br/> **Role:** Game Designer, Deialoge Designer, Narrative Wiriter, Audio Designer, UI designer, Level Designer <br/> <br/> **Description:** A 3rd person 3D platofrmer where players explore three main biomes; a harbor, swamp, and cave. Where the player gain new abilities in each area. The goal is to spray graffiti adding more colour to the world. This game uses an Animal Crossing inspired dialoge system custom made and recorded, self designed fonts, and UI elements has also been used. <br/> <br/> [**Video Walktough**](https://youtu.be/Kz1PMoFY92I)|
-
+|5th Semester Project| Image | Descrip |
+|VR Hand-Tracking Project| Image | Descrip |
+|4th Semester Project| Image | Descrip |
+|3rd Semester Project| Image | Descrip |
+|2nd Semester Project| Image | Descrip |
